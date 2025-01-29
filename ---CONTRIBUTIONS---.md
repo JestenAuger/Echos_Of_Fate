@@ -11,6 +11,5 @@
   <li>Player Blocking System</li>
   <li>Audio</li>
   <li>First Level Boss AI + Animation Transitions + Attack Hitboxes</li>
-Att</li>
-  
+  <li>Respawn System</li>
 </ul>
